@@ -2,7 +2,7 @@
 
 ![TeTIm-Eval taxonomy](./README.md.d/tetim-eval-taxonomy.drawio.png)
 
-Repository for the paper [TeTIm-Eval: a novel curated evaluation data set for comparing text-to-image models]()
+Repository for the paper [TeTIm-Eval: a novel curated evaluation data set for comparing text-to-image models](https://arxiv.org/abs/2212.07839)
 
 **You can find an online showcase of the dataset as well as the generated images from DALLE2, Stable Diffusion, Latent Diffusion, Craiyon and GLIDE [here](https://huggingface.co/spaces/galatolo/TeTIm-Eval-mini-showcase)**
 
